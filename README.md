@@ -7,3 +7,5 @@
 ### Run
 1. run `npm install`
 2. run `npm run start:dev`
+
+`[Note]: Swager Docs can be found at route localhost:3000/api after running the app`
